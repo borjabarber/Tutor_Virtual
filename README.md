@@ -1,4 +1,4 @@
-# herramienta_estudio
+
 # 📚 Plataforma de Aprendizaje y Asistencia para Bootcamps - The Bridge
 
 Bienvenido al repositorio oficial del proyecto desarrollado para **The Bridge**, En el cual se nos pidió una plataforma integral diseñada para asistir tanto a potenciales estudiantes como a alumnos inscritos en los bootcamps de la escuela.
