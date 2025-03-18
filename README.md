@@ -44,7 +44,7 @@ Este proyecto ha sido desarrollado con las siguientes herramientas y tecnología
 ## Estructura del Proyecto 📂
 
 ```bash
-herramienta_estudio/       # Directorio raíz del proyecto
+ Tutor_Virtual/                 # Directorio raíz del proyecto  
 │──  📂 chatbot/               # Módulo relacionado con el chatbot de la herramienta
 │    │── backend/               # Backend principal del sistema
 │    │   │── Dockerfile         # Configuración de Docker para el backend
